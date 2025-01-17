@@ -1,0 +1,3 @@
+C:\Users\ITWORK\source\repos\Darbas\Darbas\x64\Debug\Darbas.vcxproj.AssemblyReference.cache
+C:\Users\ITWORK\source\repos\Darbas\Darbas\x64\Debug\Darbas.MyForm.resources
+C:\Users\ITWORK\source\repos\Darbas\Darbas\x64\Debug\Darbas.vcxproj.GenerateResource.cache
