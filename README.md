@@ -1,3 +1,9 @@
 # SD2
+Veikiantis instaliavimo failas.
 Realizuota forma.
-Nėra veiksmingo kodo, šitai programai.
+Realizuotas studentų įvedimas.
+Realizuotas medienos ir vidurkio skaičiavimas.
+Realizuotas informacijos išsaugojimas.
+
+Atsisiuskite .msi setup failą.
+Instaliuokite.
